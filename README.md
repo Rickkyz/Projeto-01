@@ -1,2 +1,4 @@
 # Projeto 01
- Meu primeiro repositório
+ Criando meu primeiro repositório.
+
+ - Aprendendo a utlizar o GitHub pela primeira vez.
